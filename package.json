@@ -1,5 +1,4 @@
 {
-  "homepage": "http://NikitaFE.github.io/react-simple-to-do-list",
   "name": "react-simple-to-do-list",
   "version": "0.1.0",
   "private": true,
@@ -36,5 +35,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-  }
+  },
+  "homepage": "http://NikitaFE.github.io/react-simple-to-do-list"
 }
